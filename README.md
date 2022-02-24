@@ -1,5 +1,5 @@
 # Baby-Blockchain
-My implementation of blockchain for a digital identity system
+My implementation of blockchain for a digital identity system.
 ### Task:
 Implement your own blockchain for a digital identity system.
 ### Description:
